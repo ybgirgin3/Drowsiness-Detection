@@ -1,0 +1,4 @@
+*.swp
+files/
+trash/
+.vscode/

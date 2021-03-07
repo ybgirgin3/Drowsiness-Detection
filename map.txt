@@ -1,0 +1,5 @@
+3 farklı yol izlenebilir:
+  1- dlib kullanarak iris tanıma olayı ile gözlerin kapalı veya açık olduğunu kontrol et, 
+      eğer belirli bir süreden fazla kapalı kalırsa uyarı ver (dlib, opencv) (daha önce yapmıştım)
+
+  2-  yapay zeka kullan (model tasarla oldu bitti, kolay kısım) (keras, tf, pytorch
